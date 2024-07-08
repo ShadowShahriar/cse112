@@ -1,0 +1,6 @@
+*.o
+*.h
+*.exe
+*.ini
+.old
+*.txt

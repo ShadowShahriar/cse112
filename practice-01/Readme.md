@@ -1,4 +1,4 @@
-# Class Note 01
+# Practice 1: The Basics
 
 > This folder contains the practice programs from **Lecture 3** (**July 9, 2024**) by our CSE lecturer, **MHO**.
 

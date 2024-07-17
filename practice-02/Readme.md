@@ -14,7 +14,14 @@ This time, I'm trying to familiarize myself with [**Toph**][1], an online Comp
 -   [Clock Math][3_4]
 -   [Divisors][3_5]
 -   [Fibonacci Numbers][3_6]
+-   [Full Pyramid][3_8]
+-   [Decent Arrays][3_10]
+-   [Better Passwords][3_11]
+-   [ASCII Progress Bar][3_13]
+-   [Don't Shout][3_23]
 -   [How Many X's?][3_24]
+-   [Missing Number][3_27]
+-   [Maximum][3_28]
 
 <!-- --- links --- -->
 
@@ -28,4 +35,11 @@ This time, I'm trying to familiarize myself with [**Toph**][1], an online Comp
 [3_4]: https://toph.co/p/clock-math
 [3_5]: https://toph.co/p/divisors
 [3_6]: https://toph.co/p/fibonacci-numbers
+[3_8]: https://toph.co/p/full-pyramid
+[3_10]: https://toph.co/p/decent-arrays
+[3_11]: https://toph.co/p/better-passwords
+[3_13]: https://toph.co/p/ascii-progress-bar
+[3_23]: https://toph.co/p/don-t-shout
 [3_24]: https://toph.co/p/how-many-x-s
+[3_27]: https://toph.co/p/missing-number
+[3_28]: https://toph.co/p/maximum

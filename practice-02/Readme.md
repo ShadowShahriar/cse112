@@ -18,6 +18,7 @@ This time, I'm trying to familiarize myself with [**Toph**][1], an online Comp
 -   [Decent Arrays][3_10]
 -   [Better Passwords][3_11]
 -   [ASCII Progress Bar][3_13]
+-   [Fibonacci Between][3_22]
 -   [Don't Shout][3_23]
 -   [How Many X's?][3_24]
 -   [Missing Number][3_27]
@@ -39,6 +40,7 @@ This time, I'm trying to familiarize myself with [**Toph**][1], an online Comp
 [3_10]: https://toph.co/p/decent-arrays
 [3_11]: https://toph.co/p/better-passwords
 [3_13]: https://toph.co/p/ascii-progress-bar
+[3_22]: https://toph.co/p/fibonacci-between
 [3_23]: https://toph.co/p/don-t-shout
 [3_24]: https://toph.co/p/how-many-x-s
 [3_27]: https://toph.co/p/missing-number

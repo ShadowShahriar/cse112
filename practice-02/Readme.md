@@ -14,6 +14,7 @@ This time, I'm trying to familiarize myself with [**Toph**][1], an online Comp
 -   [Clock Math][3_4]
 -   [Divisors][3_5]
 -   [Fibonacci Numbers][3_6]
+-   [Big Factorials (⭐)][3_7]
 -   [Full Pyramid][3_8]
 -   [Decent Arrays][3_10]
 -   [Better Passwords][3_11]
@@ -36,6 +37,7 @@ This time, I'm trying to familiarize myself with [**Toph**][1], an online Comp
 [3_4]: https://toph.co/p/clock-math
 [3_5]: https://toph.co/p/divisors
 [3_6]: https://toph.co/p/fibonacci-numbers
+[3_7]: https://toph.co/p/big-factorials
 [3_8]: https://toph.co/p/full-pyramid
 [3_10]: https://toph.co/p/decent-arrays
 [3_11]: https://toph.co/p/better-passwords

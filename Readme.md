@@ -6,9 +6,11 @@ Then he asked whether there was any efficient way to **find the N-th largest nu
 
 This incident inspired me to seek creative solutions for such practice problems. Clearly, [**sorting could solve the problem**][2], but it was the **desire** that pushed me to consider an alternative solution.
 
-> This repository is a compilcation of the tasks assigned by our CSE lecturer, **Md. Mushfiqul Haque Omi (MHO)**. His charisma inspired me and 39 other students to become better programmers during the second semester of **Intake 53**.
+> **Edit:** On August 1st, 2024, our CSE lecturer **Md. Mushfiqul Haque Omi (MHO)** resigned and a new CSE lecturer named **Nabliha Khandker (NBK)** was appointed to take his position. We, the students of section 9, wish **Mushfiqul sir** the best in his future endeavors. I will continue to update this repository, hopefully to present it to our current CSE lecturer.
 
-**Duration:** 1 month 1 day (**from 8 Jul 2024 to 7 Aug 2024**)
+> **Original:** This repository is a compilcation of the tasks assigned by our CSE lecturer, **Md. Mushfiqul Haque Omi (MHO)**. His charisma inspired me and 39 other students to become better programmers during the second semester of **Intake 53**.
+
+**Duration:** 2 months 1 day (**from 8 Jul 2024 to 7 Sep 2024**)
 
 **Problems Solved:** 28
 

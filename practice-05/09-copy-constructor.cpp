@@ -13,6 +13,13 @@ public:
 		age = a;
 	}
 
+	Person(const Person &p)
+	{
+		name = p.name;
+		age = p.age;
+		cout << "Copy constructor called!" << endl;
+	}
+
 	void introduce()
 	{
 		cout << "Hello, my name is " << name << ", and I am " << age << " years old." << endl;

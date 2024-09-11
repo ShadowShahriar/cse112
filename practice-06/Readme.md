@@ -1,6 +1,6 @@
 # Practice 6: Preparation for Class Test
 
-> ![IMPORTANT]
+> [!IMPORTANT]
 > Our CSE class test is scheduled to potentially take place during the last theory class on **September 19, 2024**. In preparation for this, our class representative, **Manzilur Rahman**, has collected question papers from other sections for us to solve. I decided to solve the three sets of CT questions he found. This folder contains my solutions in both **PDF** and **Markdown** formats, and the source code used for the solutions is also available as separate `.cpp` files.
 
 ## [Set 1](./set-01)

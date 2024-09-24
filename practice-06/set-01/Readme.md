@@ -1,5 +1,21 @@
 ---
-title: Object Oriented Programming (OOP)
+title: Object Oriented Programming
+author: S. Shahriar <shadowshahriar@gmail.com>
+subject: Question Paper 1
+keywords: oop, cse, cpp
+colorTheme: dark
+codeTheme: tokyo-night-dark
+fonts: ['Nunito:ital,wght@0,200..1000;1,200..1000', 'JetBrains+Mono:ital,wght@0,100..800;1,100..800']
+cssFontText: ['Nunito']
+cssFontCode: ['JetBrains Mono']
+specialWords: ['Ans.:', 'Hint:', 'Output:']
+cssPageHeader: ['']
+headerClass: new-page
+lang: none
+cssPageNumberPlacement: right
+preset: none
+cssHighlightColor: '#67c6ff'
+cssHighlightColorAlpha: '#7dcfff0d'
 ---
 
 # Question Paper 1
@@ -69,7 +85,9 @@ We know that the members of the union share the same memory location. So, if we 
 	cout << &std1.cgpa << endl; // 0x5219ffbdc
 ```
 
-## 3. Create a C++ program that defines a class Student with the following private data members: name, roll, and marks in three subjects. The class should have the following public member functions:
+## 3. Design C++ a program.
+
+Create a C++ program that defines a class Student with the following private data members: name, roll, and marks in three subjects. The class should have the following public member functions:
 
 -   **setDetails()**: This method takes tthe student's name, roll, and marks for three subjects as parameters, and sets them to the respective data members.
 
@@ -118,8 +136,10 @@ public:
 	{
 		cout << "Name         : " << name << endl;
 		cout << "Roll No.     : " << roll << endl;
-		cout << "Total Marks  : " << getTotalMarks() << endl;
-		cout << "Average Marks: " << getAverageMarks() << endl;
+		cout << "Total Marks  : " << getTotalMarks();
+		cout << endl;
+		cout << "Average Marks: " << getAverageMarks();
+		cout << endl;
 	}
 };
 
@@ -130,6 +150,15 @@ int main()
 	std1.setDetails("Shahriar", 408, marks);
 	std1.display();
 }
+```
+
+**Output:** The code yields the following output in the terminal:
+
+```bash
+Name         : Shahriar
+Roll No.     : 408
+Total Marks  : 230
+Average Marks: 76.6667
 ```
 
 # References

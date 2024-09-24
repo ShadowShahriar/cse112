@@ -1,5 +1,21 @@
 ---
-title: Object Oriented Programming (OOP)
+title: Object Oriented Programming
+author: S. Shahriar <shadowshahriar@gmail.com>
+subject: Question Paper 3
+keywords: oop, cse, cpp
+colorTheme: dark
+codeTheme: tokyo-night-dark
+fonts: ['Nunito:ital,wght@0,200..1000;1,200..1000', 'JetBrains+Mono:ital,wght@0,100..800;1,100..800']
+cssFontText: ['Nunito']
+cssFontCode: ['JetBrains Mono']
+specialWords: ['Ans.:', 'Hint:', 'Output:']
+cssPageHeader: ['']
+headerClass: new-page
+lang: none
+cssPageNumberPlacement: right
+preset: none
+cssHighlightColor: '#67c6ff'
+cssHighlightColorAlpha: '#7dcfff0d'
 ---
 
 # Question Paper 3

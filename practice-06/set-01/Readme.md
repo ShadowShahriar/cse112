@@ -85,7 +85,7 @@ We know that the members of the union share the same memory location. So, if we 
 	cout << &std1.cgpa << endl; // 0x5219ffbdc
 ```
 
-## 3. Design C++ a program.
+## 3. Design a C++ program.
 
 Create a C++ program that defines a class Student with the following private data members: name, roll, and marks in three subjects. The class should have the following public member functions:
 

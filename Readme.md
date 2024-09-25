@@ -13,7 +13,7 @@ This incident inspired me to seek creative solutions for such practice problems.
 
 **Duration:** 2 months 19 days (**from 8 Jul 2024 to 25 Sep 2024**)
 
-**Problems Solved:** 57
+**Problems Solved:** 59
 
 **Student Information:**
 

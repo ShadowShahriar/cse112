@@ -26,3 +26,11 @@
 [📌 **Solution (Markdown)**](./set-03/Readme.md)
 
 [📌 **Solution (PDF)**](./set-03/solution-03.pdf)
+
+## [Set 4 (from **Section 8**)](./set-04)
+
+[📄 **Question Paper**](./set-04/tasks-04.jpg)
+
+[📌 **Solution (Markdown)**](./set-04/Readme.md)
+
+[📌 **Solution (PDF)**](./set-04/solution-04.pdf)

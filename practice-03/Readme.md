@@ -3,6 +3,10 @@
 > [!IMPORTANT]
 > Our new CSE lecturer, **NAB**, highly suggested studying the following topics for theory and problem-solving questions. The upcoming exams will likely be based on these topics.
 
+[📌 **Answers (Markdown)**](./solution.md)
+
+[📌 **Answers (PDF)**](./solution.pdf)
+
 -   **Class**
 
     -   Access Modifiers
@@ -16,6 +20,8 @@
     -   Copy Constructor
 
 -   **Destructor**
+
+    -   Constructor _vs_ Destructor
 
 -   **Object**
 

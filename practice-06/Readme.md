@@ -34,3 +34,12 @@
 [📌 **Solution (Markdown)**](./set-04/Readme.md)
 
 [📌 **Solution (PDF)**](./set-04/solution-04.pdf)
+
+## [Set 5 (from **Section 4**)](./set-05)
+
+> [!NOTE]
+> Special thanks to [**Kaniz Fatema**](https://github.com/kaniz-codes) for providing me this question set.
+
+[📌 **Solution (Markdown)**](./set-05/Readme.md)
+
+[📌 **Solution (PDF)**](./set-05/solution-05.pdf)

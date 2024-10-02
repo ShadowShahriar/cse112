@@ -11,7 +11,7 @@ This incident inspired me to seek creative solutions for such practice problems.
 
 > **Original:** This repository is a compilcation of the tasks assigned by our CSE lecturer, **Md. Mushfiqul Haque Omi (MHO)**. His charisma inspired me and 39 other students to become better programmers during the second semester of **Intake 53**.
 
-**Duration:** 2 months 25 days (**from 8 Jul 2024 to 1 Oct 2024**)
+**Duration:** 2 months 26 days (**from 8 Jul 2024 to 2 Oct 2024**)
 
 **Problems Solved:** 90
 
@@ -45,5 +45,8 @@ This incident inspired me to seek creative solutions for such practice problems.
 	</tr>
 </table>
 
+**NOTE:** **DO NOT** use this repository to train any AI models. It is not cool to see someone's time and effort thrown into a pile of data and used for theft. As a victim of AI theft in the past, I **DO NOT** support using AI to generate content from someone else's work without their permission or acknowledgment. Please check the [**license**][3] for more details.
+
 [1]: https://www.geeksforgeeks.org/selection-sort-algorithm-2/
 [2]: https://stackoverflow.com/a/29579585
+[3]: https://github.com/ShadowShahriar/cse112/blob/main/LICENSE

@@ -11,7 +11,7 @@ This incident inspired me to seek creative solutions for such practice problems.
 
 > **Original:** This repository is a compilcation of the tasks assigned by our CSE lecturer, **Md. Mushfiqul Haque Omi (MHO)**. His charisma inspired me and 39 other students to become better programmers during the second semester of **Intake 53**.
 
-**Duration:** 2 months 29 days (**from 8 Jul 2024 to 5 Oct 2024**)
+**Duration:** 3 months (**from 8 Jul 2024 to 7 Oct 2024**)
 
 **Problems Solved:** 95
 

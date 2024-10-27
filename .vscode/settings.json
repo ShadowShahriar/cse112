@@ -8,6 +8,7 @@
 		"**/Thumbs.db": true,
 		"**/*.exe": true,
 		"**/.gitignore": true,
-		"**/desktop.ini": true
+		"**/desktop.ini": true,
+		".old": true
 	}
 }

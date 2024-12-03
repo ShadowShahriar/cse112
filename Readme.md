@@ -6,14 +6,17 @@ Then he asked whether there was any efficient way to **find the N-th largest num
 
 This incident inspired me to seek creative solutions for such practice problems. Clearly, [**sorting could solve the problem**][2], but it was the **desire** that pushed me to consider an alternative solution.
 
+> [!CAUTION]
+> On November 4th, 2024, we learned that our new CSE lecturer, **Nabliha Khandker (NAB)**, had left due to an undisclosed emergency. This was a **massive shock** for all of us. Although she regretted not being able to inform us in person, it significantly disrupted our learning rhythm. She was soon replaced by **Md. Amirul Hasan Shanto (AHS)**.
+
 > [!IMPORTANT]
 > On August 1st, 2024, our CSE lecturer **Md. Mushfiqul Haque Omi (MHO)** resigned and a new CSE lecturer named **Nabliha Khandker (NAB)** was appointed to take his position. We, the students of section 9, wish **Mushfiqul sir** the best in his future endeavors. I will continue to update this repository, hopefully to present it to our current CSE lecturer.
 
 > **Original:** This repository is a compilcation of the tasks assigned by our CSE lecturer, **Md. Mushfiqul Haque Omi (MHO)**. His charisma inspired me and 39 other students to become better programmers during the second semester of **Intake 53**.
 
-**Duration:** 4 months 5 days (**from 8 Jul 2024 to 13 Nov 2024**)
+**Duration:** 4 months 26 days (**from 8 Jul 2024 to 3 Dec 2024**)
 
-**Problems Solved:** 100
+**Problems Solved:** 130
 
 **Student Information:**
 

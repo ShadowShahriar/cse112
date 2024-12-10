@@ -39,8 +39,8 @@ public:
 
 	void display_info()
 	{
-		cout << "Library Name:" << Library::lib_name << endl;
-		cout << "Location:" << Library::location << endl;
+		cout << "Library Name: " << Library::lib_name << endl;
+		cout << "Location: " << Library::location << endl;
 		cout << endl;
 		cout << "Section Name: " << Section::section_name << endl;
 		cout << "Section Code: " << Section::section_code << endl;

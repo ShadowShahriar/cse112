@@ -14,39 +14,30 @@ protected:
 		roll = r;
 		marks = m;
 	}
+
+public:
+	float get()
+	{
+		return marks;
+	}
 };
 
 class Physics : public Marks
 {
 public:
 	Physics(string n, int r, int m) : Marks(n, r, m) {}
-
-	float get()
-	{
-		return marks;
-	}
 };
 
 class Chemistry : public Marks
 {
 public:
 	Chemistry(string n, int r, int m) : Marks(n, r, m) {}
-
-	float get()
-	{
-		return marks;
-	}
 };
 
 class Mathematics : public Marks
 {
 public:
 	Mathematics(string n, int r, int m) : Marks(n, r, m) {}
-
-	float get()
-	{
-		return marks;
-	}
 };
 
 int main()

@@ -16,7 +16,7 @@ This incident inspired me to seek creative solutions for such practice problems.
 
 **Duration:** 5 months 6 days (**from 8 Jul 2024 to 14 Dec 2024**)
 
-**Problems Solved:** 135
+**Problems Solved:** 140 (C++: **134**, C: **5**, JavaScript: **1**)
 
 **Student Information:**
 
